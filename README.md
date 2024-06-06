@@ -2,7 +2,7 @@
 
 cd server
 
-node install
+npm install
 
 node server.js
 
@@ -12,6 +12,6 @@ node server.js
 
 cd client
 
-node install
+npm install
 
 npm start
