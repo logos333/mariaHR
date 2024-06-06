@@ -1,10 +1,17 @@
-server:
+# server:
+
 cd server
+
 node install
+
 node server.js
 
 ------------------
-client:
+
+# client:
+
 cd client
+
 node install
+
 npm start
